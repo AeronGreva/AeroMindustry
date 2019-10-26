@@ -1,0 +1,12 @@
+{
+	"name": "Test Wall",
+	"description": "A wall. Probably can't even stand up to a single shot.",
+	"type": "Wall",
+	"health": 1,
+	"size": 2,
+	"requirements": [
+		{ "item": "copper", "amount": 2 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
