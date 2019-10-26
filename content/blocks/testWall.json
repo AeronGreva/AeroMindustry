@@ -1,6 +1,6 @@
 {
 	"name": "Test Wall",
-	"description": "A wall. Probably can't even stand up to a single shot.",
+	"description": "A wall. It is pathetically flimsy, making paper look tough in comparison.",
 	"type": "Wall",
 	"health": 1,
 	"size": 2,
