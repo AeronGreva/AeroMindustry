@@ -5,7 +5,7 @@
 	"health": 1,
 	"size": 2,
 	"requirements": [
-		{ "item": "copper", "amount": 2 }
+		{ "item": "testItem", "amount": 2 }
 	],
 	"category": "defense",
 	"research": "copper-wall"
