@@ -1,17 +1,16 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Incendiary Fluid Mixer",
-	"description": "Mixes Pyratite with Oil to produce a super-flammable liquid.",
-	"liquidCapacity": 50,
-	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 5},
+	"description": "Mixes Pyratite with Oil to produce a very flammable liquid.",
+	"liquidCapacity": 10,
+	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 24},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
 	"craftTime": 60,
-	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 0.7,
+		"power": 0.35,
 		"items": {
 			"items": [
 				{ "item": "pyratite", "amount": 2 }
@@ -19,7 +18,7 @@
 		},
 		"liquid": {
 			"liquid": "oil",
-			"amount": 5.0
+			"amount": 0.4
 		}
 	},
 	"requirements": [
@@ -29,7 +28,5 @@
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "pyratite-mixer",
-	"idleSound": "respawning",
-	"idleSoundVolume": 0.5
+	"research": "pyratite-mixer"
 }
