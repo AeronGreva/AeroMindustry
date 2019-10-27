@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Solar Spore Panel",
+	"description": "A solar panel utilizing spores to generate additional power.",
+	"health": 100,
+	"hasPower": "true",
+	"powerProduction": 0.08,
+	"requirements": [
+		{ "item": "titanium", "amount": 10 },
+		{ "item": "spore-silicon", "amount": 12 }
+	],
+	"category": "power",
+	"research": "solar-panel",
+	"color": "F2A7C2"
+}

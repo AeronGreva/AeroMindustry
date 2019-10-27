@@ -1,0 +1,12 @@
+{
+	"name": "Fungal Slurry",
+	"description": "A viscous liquid, made from shredded spore pods and water. \nHas uses in solar technology.",
+	"temperature": 0.4,
+	"flammability": 0.2,
+	"viscosity": 0.8,
+	"heatCapacity": 0.2,
+	"explosiveness": 0,
+	"effect": "tarred",
+	"color": "7457CE"
+
+}

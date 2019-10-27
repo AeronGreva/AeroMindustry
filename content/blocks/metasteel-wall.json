@@ -1,11 +1,11 @@
 {
 	"name": "Metasteel Wall",
-	"description": "A wall, made out of semi-transparent Metasteel. \nExtremely durable.\nSpans a 2x2 space.",
+	"description": "A wall, made out of Metasteel. \nExtremely durable.",
 	"type": "Wall",
-	"health": 4096,
-	"size": 2,
+	"health": 1024,
+	"size": 1,
 	"requirements": [
-		{ "item": "metaglass", "amount": 24 }
+		{ "item": "metaglass", "amount": 6 }
 	],
 	"category": "defense",
 	"research": "kiln"
