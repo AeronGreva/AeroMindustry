@@ -3,7 +3,7 @@
 	"name": "Incendiary Fluid Mixer",
 	"description": "Mixes Pyratite with Oil to produce a super-flammable liquid.",
 	"liquidCapacity": 50,
-	"outputItem": {"liquid": "incendiary-fluid", "amount": 5},
+	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 5},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -29,7 +29,7 @@
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "pyratiteMixer",
+	"research": "pyratite-mixer",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
