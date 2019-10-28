@@ -1,0 +1,4 @@
+- Solving for Per-frame Fluid use in machines
+[Desired Amount of Liquid] / craftTime([Desired Craft Period in Seconds] * 60) = Amount of Liquid per Frame	
+
+[Desired Amount of Liquid / Desired Craft Period in Seconds = 

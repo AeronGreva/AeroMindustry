@@ -1,0 +1,33 @@
+{
+	"type": "GenericSmelter",
+	"name": "Spore Silicon Smelter",
+	"description": "Creates a type of silicon with enhanced electrical generation capability.",
+	"liquidCapacity": 10,
+	"outputItem": {"item": "spore-silicon", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"craftEffect": "pulverize",
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{ "item": "silicon", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "fungal-slurry",
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 75 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "graphite", "amount": 45 },
+		{ "item": "silicon", "amount": 40 }
+	],
+	"category": "crafting",
+	"research": "sporepod-shredder"
+}

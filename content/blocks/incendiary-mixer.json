@@ -3,12 +3,12 @@
 	"name": "Incendiary Fluid Mixer",
 	"description": "Mixes Pyratite with Oil to produce a very flammable liquid.",
 	"liquidCapacity": 10,
-	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 24},
+	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 1},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 60,
+	"craftTime": 35,
 	"consumes": {
 		"power": 0.35,
 		"items": {
@@ -18,7 +18,7 @@
 		},
 		"liquid": {
 			"liquid": "oil",
-			"amount": 0.4
+			"amount": 0.2
 		}
 	},
 	"requirements": [

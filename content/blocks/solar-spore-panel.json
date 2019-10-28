@@ -1,7 +1,7 @@
 {
 	"type": "SolarGenerator",
 	"name": "Solar Spore Panel",
-	"description": "A solar panel utilizing spores to generate additional power.",
+	"description": "Generates more power than standard solar panels.",
 	"health": 100,
 	"hasPower": "true",
 	"powerProduction": 0.08,

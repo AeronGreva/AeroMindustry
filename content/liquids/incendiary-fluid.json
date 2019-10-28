@@ -1,7 +1,7 @@
 {
 	"name": "Incendiary Fluid",
-	"description": "A super-flammable liquid, made by mixing finely ground Pyratite with Oil.",
-	"temperature": 0.4,
+	"description": "A flammable liquid, made by mixing finely ground Pyratite with Oil.",
+	"temperature": 0.5,
 	"flammability": 3,
 	"viscosity": 0.75,
 	"heatCapacity": 0.6,
