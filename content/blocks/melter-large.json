@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"name": "Large Melter",
+	"description": "A large Melter, capable of processing scrap metal at a much greater rate than its smaller brother.",
+	"health": 800,
+	"itemCapacity": 20,
+	"hasPower": "true",
+	"outputLiquid": {"liquid": "slag", "amount": 16},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 24,
+	"consumes": {
+		"power": 5.0,
+		"items": {
+			"items": [
+				{ "item": "scrap", "amount": 8 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 150 },
+		{ "item": "lead", "amount": 170 },
+		{ "item": "titanium", "amount": 60},
+		{ "item": "silicon", "amount": 120 }
+	],
+	"category": "crafting",
+	"research": "melter"
+}

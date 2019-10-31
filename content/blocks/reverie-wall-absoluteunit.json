@@ -1,0 +1,13 @@
+{
+	"name": "Absolutely Gargantuan Reverie Wall",
+	"description": "[purple]bruh",
+	"type": "DeflectorWall",
+	"health": 458752,
+	"maxDamageReflect": 1024f,
+	"size": 8,
+	"requirements": [
+		{ "item": "reverie-crystal", "amount": 1536 }
+	],
+	"category": "defense",
+	"research": "thorium-wall"
+}

@@ -1,0 +1,16 @@
+{
+	"type": "Vault",
+	"name": "Extraspatial Vault",
+	"description": "Stores a very large amount of items of each type. An unloader block can be used to retrieve items from the vault.",
+	"health": 650,
+	"size": 3,
+	"hasItems": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 600 },
+		{ "item": "thorium", "amount": 250 },
+		{ "item": "plastanium", "amount": 125 },
+		{ "item": "reverie-crystal", "amount": 100 },
+	],
+	"itemCapacity": 5000,
+	"category": "effect"
+}
