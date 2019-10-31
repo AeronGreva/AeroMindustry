@@ -1,6 +1,6 @@
 {
 	"name": "Absolutely Gargantuan Reverie Wall",
-	"description": "[purple]bruh",
+	"description": "[purple]bruh\n[white]Loses all health upon reloading the save, for some reason.",
 	"type": "DeflectorWall",
 	"health": 458752,
 	"maxDamageReflect": 1024f,

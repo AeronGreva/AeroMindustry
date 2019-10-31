@@ -17,10 +17,9 @@
 		},
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 150 },
-		{ "item": "lead", "amount": 135 },
+		{ "item": "lead", "amount": 160 },
 		{ "item": "plastanium", "amount": 100 },
-		{ "item": "silicon", "amount": 80 }
+		{ "item": "silicon", "amount": 75 }
 	],
 	"category": "crafting",
 	"research": "spore-press"

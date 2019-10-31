@@ -3,7 +3,7 @@
 	"name": "Solar Spore Panel",
 	"description": "Generates more power than standard solar panels.",
 	"health": 100,
-	"hasPower": "true",
+	"hasPower": true,
 	"powerProduction": 0.08,
 	"requirements": [
 		{ "item": "titanium", "amount": 10 },
