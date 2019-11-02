@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Metasteel Conveyor",
+	"description": "Moves items faster than Titanium conveyors.",
+	"requirements": [
+		{"item": "titanium", "amount": 2},
+		{"item": "lead", "amount": 2},
+		{"item": "metasteel", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.13334,
+	"research": "titanium-conveyor"
+}

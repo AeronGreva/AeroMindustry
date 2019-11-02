@@ -5,7 +5,7 @@
 	"health": 4096,
 	"size": 2,
 	"requirements": [
-		{ "item": "metasteel", "amount": 6 }
+		{ "item": "metasteel", "amount": 24 }
 	],
 	"category": "defense",
 	"research": "metasteel-wall"

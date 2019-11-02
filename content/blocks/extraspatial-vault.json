@@ -12,5 +12,6 @@
 		{ "item": "reverie-crystal", "amount": 100 },
 	],
 	"itemCapacity": 5000,
-	"category": "effect"
+	"category": "effect",
+	"research": "vault"
 }
