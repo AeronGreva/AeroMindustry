@@ -1,0 +1,41 @@
+{
+	"type": "BurstTurret",
+	"name": "Clipper",
+	"description": "Shoots large clumps of scrap, lead, or plastanium flak at airborne enemies.",
+	"health": 1400,
+	"size": 3,
+	"reload": 60,
+	"range": 260,
+	"inaccuracy": 20,
+	"rotatespeed": 16,
+	"shots": 5,
+	"burstSpacing": 3,
+	"targetAir": true,
+	"targetGround": false,
+	"category": "turret",
+	"shootCone": 50,
+	"ammo": {
+		"scrap": "flakScrap",
+		"lead": "flakLead",
+		"metaglass": "flakGlass",
+			"plastanium": {
+				"damage": 3,
+				"frontColor": "d8d97f",
+	            "backColor": "fffac6",
+				"speed": 4,
+				"splashDamageRadius": 24,
+				"splashDamage": 40,
+				"bulletWidth": 8,
+				"bulletHeight": 10,
+				"fragBullet": "artilleryPlasticFrag",
+				"fragBullets": 6,
+				"hitEffect": "plasticExplosion",
+				"ammoMultiplier": 2
+			}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 160 },
+		{ "item": "lead", "amount": 100 },
+		{ "item": "titanium", "amount": 60}
+	]
+}

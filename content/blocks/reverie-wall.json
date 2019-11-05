@@ -1,0 +1,13 @@
+{
+	"name": "Reverie Wall",
+	"description": "A very durable defensive and reflective block.\nDeflects most bullets upon impact. ",
+	"type": "DeflectorWall",
+	"health": 896,
+	"maxDamageReflect": 40f,
+	"size": 1,
+	"requirements": [
+		{ "item": "reverie-crystal", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "thorium-wall"
+}
