@@ -9,5 +9,5 @@
 		{ "item": "reverie-crystal", "amount": 1536 }
 	],
 	"category": "defense",
-	"research": "thorium-wall"
+	"research": "reverie-wall-large"
 }

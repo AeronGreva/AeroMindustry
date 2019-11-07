@@ -1,7 +1,7 @@
 {
 	"type": "resource",
 	"name": "Rough Reverie Crystal",
-	"description": "A strange and unstable crystal.\nCan be refined, but can have other uses.",
+	"description": "A strange and unstable crystal.\nCan be refined, but has other uses.",
 	"explosiveness": 0.8,
 	"flammability": 0.1,
 	"radioactivity": 0.75,

@@ -37,5 +37,6 @@
 		{ "item": "copper", "amount": 160 },
 		{ "item": "lead", "amount": 100 },
 		{ "item": "titanium", "amount": 60}
-	]
+	],
+	"research": "scatter"
 }

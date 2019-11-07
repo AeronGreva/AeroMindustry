@@ -1,0 +1,53 @@
+{
+	"type": "ItemTurret",
+	"name": "Bloom",
+	"description": "A small turret, fairly similar to the Duo.\nFast, but somewhat inaccurate.",
+	"health": 600,
+	"size": 1,
+	"reload": 10,
+	"range": 116,
+	"inaccuracy": 10,
+	"rotatespeed": 16,
+	"targetAir": true,
+	"targetGround": true,
+	"category": "turret",
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"reverie-crystal": {
+			"speed": 2.5,
+			"lifetime": 60,
+			"damage": 12,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"frontColor": "d45da6",
+			"backColor": "bf2195",
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"fragBullet": {
+				"speed": 3,
+				"lifetime": 10,
+				"damage": 5,
+				"splashDamage": 2,
+				"splashDamageRadius": 16,
+				"bulletWidth": 4,
+				"bulletHeight": 5,
+				"collides": false,
+				"despawnEffect": "blastsmoke",
+				"frontColor": "d45da6",
+				"backColor": "99008f"
+			},
+			"fragVelocityMin": 0.4,
+			"fragVelocityMax": 1.4,
+			"fragBullets": 8,
+			"status": "none"
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 40 },
+		{ "item": "metasteel", "amount": 25}
+	],
+	"research": "duo"
+}

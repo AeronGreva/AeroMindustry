@@ -1,0 +1,13 @@
+{
+	"name": "Large Reverie Wall",
+	"description": "A very durable defensive and reflective block.\nDeflects most bullets upon impact.\nSpans multiple tiles.",
+	"type": "DeflectorWall",
+	"health": 3584,
+	"maxDamageReflect": 40f,
+	"size": 2,
+	"requirements": [
+		{ "item": "reverie-crystal", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "reverie-wall"
+}
