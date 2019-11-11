@@ -1,4 +1,9 @@
-- Solving for Per-frame Fluid use in machines
-[Desired Amount of Liquid] / craftTime([Desired Craft Period in Seconds] * 60) = Amount of Liquid per Frame	
+Hi. These are just a few handy formulas for figuring out values for various things in the mod.
 
-[Desired Amount of Liquid / Desired Craft Period in Seconds = 
+
+- Solving for Per-frame Fluid use in machines
+	[Desired Amount of Liquid] / craftTime([Desired Craft Period in Seconds] * 60) = Amount of Liquid per Frame
+
+- Conveyor Speed
+
+	[Items per second] / 150 = [speed]
