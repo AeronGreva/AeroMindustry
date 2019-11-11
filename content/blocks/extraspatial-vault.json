@@ -8,7 +8,6 @@
 	"requirements": [
 		{ "item": "titanium", "amount": 600 },
 		{ "item": "thorium", "amount": 250 },
-		{ "item": "plastanium", "amount": 125 },
 		{ "item": "reverie-crystal", "amount": 100 },
 	],
 	"itemCapacity": 5000,

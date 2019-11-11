@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Chirunium",
+	"description": "A material capable of absorbing large amounts of heat.\nAlways feels cold.",
+	"cost": 1,
+	"color": "c2d6c1"
+}

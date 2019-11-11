@@ -8,6 +8,6 @@
 		{"item": "metasteel", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.13334,
+	"speed": 0.14,
 	"research": "titanium-conveyor"
 }

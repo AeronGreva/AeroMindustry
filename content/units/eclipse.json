@@ -1,0 +1,42 @@
+{
+	"type": "Revenant",
+	"name": "Eclipse",
+	"description": "A massive, heavily armored airship. Two attack drones follow it at all times, dealing massive damage to whatever is near.",
+	"health": 16000,
+	"hitsize": 54,
+	"flying": true,
+	"speed": 0.01,
+	"range": 100,
+	"attackLength": 50,
+	"rotatespeed": 0.01,
+	"baseRotateSpeed": 0.04,
+	"shootCone": 120,
+	"mass": 35,
+	"rotateWeapon": true,
+	"drag": 0.03,
+	"maxVelocity": 0.4,
+	"retreatPercent": 0,
+	"engineOffset": 28,
+	"engineSize": 6,
+	"weapon": {
+		"name": "eclipse-cannon",
+		"alternate": true,
+		"reload": 45,
+		"shots": 15,
+		"spacing": 1,
+		"inaccuracy": 3,
+		"recoil": 0,
+		"length": 6.5,
+		"width": 21,
+		"velocityRnd": 0.15,
+		"shootSound": "shootBig",
+		"bullet": {
+			"speed": 5,
+			"lifetime": 60,
+			"damage": 40,
+			"bulletWidth": 10,
+			"bulletHeight": 18,
+			"shootEffect": "shootBig"
+			}
+	}
+}
