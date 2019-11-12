@@ -2,6 +2,7 @@
 	"type": "material",
 	"name": "Chirunium",
 	"description": "A material capable of absorbing large amounts of heat.\nAlways feels cold.",
+	"hardness": 3,
 	"cost": 1,
 	"color": "a0d0f8"
 }
