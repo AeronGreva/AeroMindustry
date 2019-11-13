@@ -43,7 +43,19 @@
 			"fragVelocityMax": 1.4,
 			"fragBullets": 8,
 			"status": "none"
-		}
+		},
+		"chirunium": {
+			"speed": 2.5,
+			"lifetime": 60,
+			"damage": 9,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"frontColor": "eff7ff",
+			"backColor": "a0d0f8",
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"status": "freezing"
+		}	
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 40 },

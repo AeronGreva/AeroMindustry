@@ -1,0 +1,32 @@
+{
+	"type": "LiquidConverter",
+	"name": "Frost Oil Mixer",
+	"description": "Mixes water with flakes of Chirunium to create Frost Oil.",
+	"liquidCapacity": 15,
+	"outputLiquid": {"liquid": "frost-oil", "amount": 12},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 120,
+	"consumes": {
+		"power": 1.05,
+		"items": {
+			"items": [
+				{ "item": "chirunium", "amount": 1 }
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.2
+		}
+	},
+	"requirements": [
+		{ "item": "chirunium", "amount": 60 },
+		{ "item": "lead", "amount": 75 },
+		{ "item": "titanium", "amount": 80 },
+		{ "item": "silicon", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}
