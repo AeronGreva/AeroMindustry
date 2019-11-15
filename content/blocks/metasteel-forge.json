@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Metasteel Forge",
-	"description": "Combines titanium, graphite, and stabilized thorium to form Metasteel.",
+	"description": "Combines Titanium, Graphite, and Chirunium to form Metasteel.",
 	"outputItem": {"item": "metasteel", "amount": 1},
 	"size": 2,
 	"hasPower": true,
@@ -14,7 +14,7 @@
 			"items": [
 				{ "item": "titanium", "amount": 2 },
 				{ "item": "graphite", "amount": 1 },
-				{ "item": "thorium", "amount": 1 }
+				{ "item": "chirunium", "amount": 1 }
 			]
 		},
 	},
@@ -22,7 +22,7 @@
 		{ "item": "copper", "amount": 120 },
 		{ "item": "lead", "amount": 100 },
 		{ "item": "titanium", "amount": 80 }
-		{ "item": "thorium", "amount": 40}
+		{ "item": "chirunium", "amount": 40 }
 	],
 	"category": "crafting",
 	"research": "graphite-press"

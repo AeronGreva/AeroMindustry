@@ -1,0 +1,14 @@
+{
+	"name": "Large Reclaimed Metal Wall",
+	"description": "A wall, made out of reclaimed scrap metal.
+					Cheap, but not very durable.
+					Spans multiple tiles.",
+	"type": "Wall",
+	"health": 1280,
+	"size": 2,
+	"requirements": [
+		{ "item": "recmetal", "amount": 16 }
+	],
+	"category": "defense",
+	"research": "metasteel-wall"
+}
