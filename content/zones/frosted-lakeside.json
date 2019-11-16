@@ -29,5 +29,5 @@
     		"block": "turbine-generator"
     	}
     ],
-    "resources": ["copper", "lead", "coal", "sand", "titanium", "chirunium"]
+    "resources": ["copper", "lead", "coal", "sand", "scrap", "titanium", "chirunium"]
 }
