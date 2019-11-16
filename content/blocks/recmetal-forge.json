@@ -1,0 +1,26 @@
+{
+	"type": "GenericSmelter",
+	"name": "Scrap Refinery",
+	"description": "Removes impurities from scrap metal, making it viable for construction, or other use.",
+	"outputItem": {"item": "recmetal", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 1.5,
+		"items": {
+			"items": [
+				{ "item": "scrap", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 30 },
+		{ "item": "graphite", "amount": 30 }
+	],
+	"category": "crafting",
+	"research": "incinerator"
+}

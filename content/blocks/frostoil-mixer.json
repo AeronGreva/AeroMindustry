@@ -10,7 +10,7 @@
 	"hasItems": true,
 	"craftTime": 120,
 	"consumes": {
-		"power": 1.05,
+		"power": 1.5,
 		"items": {
 			"items": [
 				{ "item": "chirunium", "amount": 1 }

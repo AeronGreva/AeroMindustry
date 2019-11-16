@@ -10,5 +10,5 @@
 		{ "item": "recmetal", "amount": 16 }
 	],
 	"category": "defense",
-	"research": "metasteel-wall"
+	"research": "recmetal-wall"
 }
