@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Scrap Refinery",
-	"description": "Removes impurities from scrap metal, making it viable for construction, or other use.",
+	"description": "Removes impurities from scrap metal, making it viable for construction.",
 	"outputItem": {"item": "recmetal", "amount": 1},
 	"size": 2,
 	"hasPower": true,
