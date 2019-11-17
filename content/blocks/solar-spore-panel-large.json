@@ -8,7 +8,7 @@
 	"powerProduction": 1.2,
 	"requirements": [
 		{ "item": "titanium", "amount": 100 },
-		{ "item": "spore-silicon", "amount": 65 },
+		{ "item": "spore-silicon", "amount": 75 },
 		{ "item": "phase-fabric", "amount": 15 }
 	],
 	"category": "power",
