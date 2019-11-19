@@ -41,7 +41,7 @@
 			},
 			"fragVelocityMin": 0.4,
 			"fragVelocityMax": 1.4,
-			"fragBullets": 8,
+			"fragBullets": 12,
 			"status": "none"
 		},
 		"chirunium": {
