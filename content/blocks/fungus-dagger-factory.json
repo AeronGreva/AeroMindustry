@@ -1,0 +1,22 @@
+{
+	"name": "Infested Dagger Factory",
+	"description": "Makes Infested Daggers. If you have access to this outside of Sandbox, please inform UltrasonicAeron.",
+	"type": "UnitFactory",
+	"unitType": "fungus-dagger",
+	"size": 2,
+	"produceTime": 150,
+	"maxSpawn": 10,
+	"consumes": {
+		"power": 0.033,
+		"items": {
+			"items": [
+				{ "item": "scrap", "amount": 5 }
+			]
+		}
+	},
+	"category": "units",
+	"buildVisibility": "sandboxOnly",
+	"requirements": [
+		{ "item": "spore-silicon", "amount": 20 }
+	]
+}

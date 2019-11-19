@@ -1,0 +1,43 @@
+{
+	"type": "Dagger",
+	"name": "Infested Dagger",
+	"description": "A unit made from scrapped Dagger parts and held together by fungal tendrils.
+					Low attack power, but very resilient.",
+	"health": 300,
+	"hitsize": 8,
+	"speed": 0.15,
+	"range": 80,
+	"attackLength": 150,
+	"rotatespeed": 0.18,
+	"baseRotateSpeed": 0.1,
+	"shootCone": 18,
+	"mass": 2,
+	"rotateWeapon": false,
+	"drag": 0.4,
+	"maxVelocity": 0.6,
+	"retreatPercent": 0,
+	"weapon": {
+		"name": "fungus-dagger-cannon",
+		"alternate": true,
+		"reload": 36,
+		"shots": 1,
+		"spacing": 12,
+		"inaccuracy": 2,
+		"recoil": 1.5,
+		"length": 3,
+		"width": 4,
+		"velocityRnd": 0
+		"shootSound": "pew",
+		"bullet": {
+			"speed": 2.5,
+			"lifetime": 60,
+			"damage": 5,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"frontColor": "ab8fdb",
+			"backColor": "8772cc"
+			}
+	}
+}
