@@ -48,6 +48,8 @@
 			"speed": 2.5,
 			"lifetime": 60,
 			"damage": 9,
+			"splashDamage": 0,
+			"splashDamageRadius": 20,
 			"bulletWidth": 8,
 			"bulletHeight": 10,
 			"frontColor": "eff7ff",

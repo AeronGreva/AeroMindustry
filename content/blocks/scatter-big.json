@@ -1,10 +1,10 @@
 {
 	"type": "BurstTurret",
 	"name": "Clipper",
-	"description": "Shoots large clumps of scrap, lead, or plastanium flak at airborne enemies.",
+	"description": "Shoots large clumps of flak at airborne enemies.",
 	"health": 1400,
 	"size": 3,
-	"reload": 60,
+	"reload": 50,
 	"range": 260,
 	"inaccuracy": 20,
 	"rotatespeed": 16,
@@ -18,20 +18,35 @@
 		"scrap": "flakScrap",
 		"lead": "flakLead",
 		"metaglass": "flakGlass",
-			"plastanium": {
-				"damage": 3,
-				"frontColor": "d8d97f",
-	            "backColor": "fffac6",
-				"speed": 4,
-				"splashDamageRadius": 24,
-				"splashDamage": 40,
-				"bulletWidth": 8,
-				"bulletHeight": 10,
-				"fragBullet": "artilleryPlasticFrag",
-				"fragBullets": 6,
-				"hitEffect": "plasticExplosion",
-				"ammoMultiplier": 2
-			}
+		"plastanium": {
+			"damage": 3,
+			"frontColor": "d8d97f",
+	        "backColor": "fffac6",
+			"speed": 4,
+			"splashDamageRadius": 24,
+			"splashDamage": 40,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"fragBullet": "artilleryPlasticFrag",
+			"fragBullets": 6,
+			"hitEffect": "plasticExplosion",
+			"ammoMultiplier": 2
+		},
+		"chirunium": {
+			"damage": 9,
+			"frontColor": "eff7ff",
+			"backColor": "a0d0f8",
+			"speed": 4,
+			"splashDamageRadius": 30,
+			"splashDamage": 15,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"hitEffect": "hitBulletBig",
+			"ammoMultiplier": 3,
+			"status": "freezing"
+		}
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 160 },

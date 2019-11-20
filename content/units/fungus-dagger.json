@@ -1,8 +1,7 @@
 {
 	"type": "Dagger",
 	"name": "Infested Dagger",
-	"description": "A unit made from scrapped Dagger parts and held together by fungal tendrils.
-					Low attack power, but very resilient.",
+	"description": "A unit made from scrapped Dagger parts and held together by fungal tendrils.\nLow attack power, but very resilient.",
 	"health": 300,
 	"hitsize": 8,
 	"speed": 0.15,
