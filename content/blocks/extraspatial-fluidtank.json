@@ -1,0 +1,14 @@
+{
+	"type": "LiquidTank",
+	"name": "Extraspatial Tank",
+	"health": 1000,
+	"size": 3,
+	"description": "A tank that holds much more fluid than the standard type.",
+	"liquidCapacity": 5000,
+	"requirements": [
+		{ "item": "metaglass", "amount": 45 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "reverie-crystal", "amount": 50 }
+	],
+	"category": "liquid"
+}
