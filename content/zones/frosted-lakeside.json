@@ -1,10 +1,6 @@
 {
 	"name": "Frosted Lakeside",
-	"description": "A lake, formed within the frigid reaches of the mountains.
-		The enemy is present here, though the rough terrain of the mountains will slow them down at first.
-		
-		Scout drones report deposits of Chirunium, a material that has unusual cryogenic properties.
-		Obtain what you can of this new material, and discover its uses.",
+	"description": "A lake, formed within the frigid reaches of the mountains.\nThe enemy is present here, though the rough terrain of the mountains will slow them down at first.\n\nScout drones report deposits of Chirunium, a material that has unusual cryogenic properties.\nObtain what you can of this new material, and discover its uses.",
 	"loadout": "basicFoundation",
     "startingItems": [
     	{"item": "copper", "amount": 350},

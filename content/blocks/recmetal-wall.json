@@ -1,7 +1,6 @@
 {
 	"name": "Reclaimed Metal Wall",
-	"description": "A wall, made out of reclaimed scrap metal.
-					Cheap, but not very durable.",
+	"description": "A wall, made out of reclaimed scrap metal.\nCheap, but not very durable.",
 	"type": "Wall",
 	"health": 320,
 	"size": 1,
