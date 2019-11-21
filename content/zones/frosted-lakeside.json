@@ -5,9 +5,9 @@
     "startingItems": [
     	{"item": "copper", "amount": 350},
     	{"item": "lead", "amount": 200},
-    	{"item": "titanium", "amount": 150}
+    	{"item": "graphite", "amount": 150}
     ],
-    "conditionWave": 10,
+    "conditionWave": 15,
     "launchPeriod": 5,
     "requirements": [
     	{
