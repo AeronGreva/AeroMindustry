@@ -4,7 +4,7 @@
 	"description": "Generates more power than standard solar panels.",
 	"health": 100,
 	"hasPower": true,
-	"powerProduction": 0.08,
+	"powerProduction": 0.09333,
 	"requirements": [
 		{ "item": "titanium", "amount": 10 },
 		{ "item": "spore-silicon", "amount": 12 }

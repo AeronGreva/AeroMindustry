@@ -5,7 +5,7 @@
 	"description": "A significantly more efficient version of the Solar Spore Panel.",
 	"health": 100,
 	"hasPower": true,
-	"powerProduction": 1.2,
+	"powerProduction": 1.4,
 	"requirements": [
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "spore-silicon", "amount": 75 },
