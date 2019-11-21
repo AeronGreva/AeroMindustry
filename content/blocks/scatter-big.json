@@ -4,7 +4,7 @@
 	"description": "Shoots large clumps of flak at airborne enemies.",
 	"health": 1400,
 	"size": 3,
-	"reload": 50,
+	"reload": 35,
 	"range": 260,
 	"inaccuracy": 20,
 	"rotatespeed": 16,
