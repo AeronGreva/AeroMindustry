@@ -7,3 +7,6 @@ Hi. These are just a few handy formulas for figuring out values for various thin
 - Conveyor Speed
 
 	[Items per second] / 150 = [speed]
+
+- Solar Generation
+	[Desired generation per sec] / 60 = [powerProduction]
