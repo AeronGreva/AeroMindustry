@@ -15,13 +15,48 @@
 	"category": "turret",
 	"shootCone": 50,
 	"ammo": {
-		"scrap": "flakScrap",
-		"lead": "flakLead",
-		"metaglass": "flakGlass",
+		"scrap": {
+			"damage": 3,
+	        "lifetime": 80,
+			"speed": 4,
+			"reloadMultiplier": 0.5,
+			"splashDamageRadius": 24,
+			"splashDamage": 22,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"hitEffect": "flakExplosion",
+			"ammoMultiplier": 5
+		},
+		"lead": {
+			"damage": 3,
+	        "lifetime": 90,
+			"speed": 4.2,
+			"splashDamageRadius": 15,
+			"splashDamage": 27,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"hitEffect": "flakExplosion",
+			"ammoMultiplier": 4
+		},
+		"metaglass": {
+			"damage": 3,
+	        "lifetime": 100,
+			"speed": 4,
+			"reloadMultiplier": 0.8,
+			"splashDamageRadius": 26,
+			"splashDamage": 30,
+			"bulletWidth": 8,
+			"bulletHeight": 10,
+			"fragBullet": "glassFrag",
+			"fragBullets": 6,
+			"hitEffect": "flakExplosion",
+			"ammoMultiplier": 5
+		},
 		"plastanium": {
 			"damage": 3,
 			"frontColor": "d8d97f",
 	        "backColor": "fffac6",
+	        "lifetime": 85,
 			"speed": 4,
 			"splashDamageRadius": 24,
 			"splashDamage": 40,
@@ -30,12 +65,13 @@
 			"fragBullet": "artilleryPlasticFrag",
 			"fragBullets": 6,
 			"hitEffect": "plasticExplosion",
-			"ammoMultiplier": 2
+			"ammoMultiplier": 3
 		},
 		"chirunium": {
 			"damage": 9,
 			"frontColor": "eff7ff",
 			"backColor": "a0d0f8",
+			"lifetime": 90,
 			"speed": 4,
 			"splashDamageRadius": 30,
 			"splashDamage": 15,
@@ -44,14 +80,14 @@
 			"shootEffect": "shootBig",
 			"smokeEffect": "shootBigSmoke",
 			"hitEffect": "hitBulletBig",
-			"ammoMultiplier": 3,
+			"ammoMultiplier": 4,
 			"status": "freezing"
 		}
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 160 },
 		{ "item": "lead", "amount": 100 },
-		{ "item": "titanium", "amount": 60}
+		{ "item": "titanium", "amount": 75}
 	],
 	"research": "scatter"
 }
