@@ -21,7 +21,7 @@
 		{ "item": "copper", "amount": 120 },
 		{ "item": "lead", "amount": 100 },
 		{ "item": "titanium", "amount": 80 }
-		{ "item": "chirunium", "amount": 40 }
+		{ "item": "thorium", "amount": 40 }
 	],
 	"category": "crafting",
 	"research": "graphite-press"
