@@ -8,12 +8,12 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 120,
+	"craftTime": 150,
 	"consumes": {
 		"power": 1.5,
 		"items": {
 			"items": [
-				{ "item": "chirunium", "amount": 1 }
+				{ "item": "chirunium", "amount": 3 }
 			]
 		},
 		"liquid": {
