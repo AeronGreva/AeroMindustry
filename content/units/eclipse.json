@@ -5,7 +5,7 @@
 	"health": 16000,
 	"hitsize": 54,
 	"flying": true,
-	"speed": 0.01,
+	"speed": 0.02,
 	"range": 76,
 	"attackLength": 50,
 	"rotatespeed": 0.01,
