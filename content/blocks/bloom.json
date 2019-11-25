@@ -5,8 +5,10 @@
 	"health": 600,
 	"size": 1,
 	"reload": 7.5,
+	"ammoUseEffect": "shellEjectSmall",
+	"recoil": 1.5,
 	"range": 116,
-	"inaccuracy": 10,
+	"inaccuracy": 6,
 	"rotatespeed": 16,
 	"targetAir": true,
 	"targetGround": true,
@@ -48,7 +50,9 @@
 			"speed": 2.5,
 			"lifetime": 60,
 			"damage": 9,
-			"splashDamage": 0,
+			"ammoMultiplier": 3,
+			"reloadMultiplier": 1.2,
+			"splashDamage": 1,
 			"splashDamageRadius": 20,
 			"bulletWidth": 8,
 			"bulletHeight": 10,
@@ -56,7 +60,8 @@
 			"backColor": "a0d0f8",
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"status": "freezing"
+			"status": "freezing",
+			"statusDuration": 900
 		}	
 	},
 	"requirements": [
