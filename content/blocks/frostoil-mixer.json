@@ -8,7 +8,7 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 150,
+	"craftTime": 120,
 	"consumes": {
 		"power": 1.5,
 		"items": {
