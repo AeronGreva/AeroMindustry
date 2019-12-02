@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Carlatt Fabric",
+	"description": "A very strong and light fabric-like material. Useful for things that move.",
+	"cost": 1,
+	"color": "444040"
+}
