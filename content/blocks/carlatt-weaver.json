@@ -1,0 +1,27 @@
+{
+	"type": "GenericCrafter",
+	"name": "Carlatt Weaver",
+	"description": "Cuts Graphite into mono-molecular sheets, and weaves the sheets together into a tough fabric.",
+	"outputItem": {"item": "carlatt-fabric", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "smoke",
+	"consumes": {
+		"power": 3.0,
+		"items": {
+			"items": [
+				{ "item": "graphite", "amount": 3 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 130 },
+		{ "item": "graphite", "amount": 80 },
+		{ "item": "titanium", "amount": 100 }
+		{ "item": "thorium", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "multi-press"
+}
