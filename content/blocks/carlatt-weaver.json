@@ -3,7 +3,7 @@
 	"name": "Carlatt Weaver",
 	"description": "Cuts Graphite into mono-molecular sheets, and weaves the sheets together into a tough fabric.",
 	"outputItem": {"item": "carlatt-fabric", "amount": 1},
-	"size": 2,
+	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
 	"craftTime": 90,
