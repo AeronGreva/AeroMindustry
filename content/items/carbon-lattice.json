@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Carbon Lattice",
+	"description": "A very strong and light fabric-like material made from carbon.",
+	"cost": 1,
+	"color": "444040"
+}
