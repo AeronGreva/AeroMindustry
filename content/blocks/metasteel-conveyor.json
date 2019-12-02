@@ -4,10 +4,10 @@
 	"description": "Moves items faster than Titanium conveyors.",
 	"requirements": [
 		{"item": "titanium", "amount": 2},
-		{"item": "lead", "amount": 2},
+		{"item": "carlatt-fabric", "amount": 2},
 		{"item": "metasteel", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.14,
+	"speed": 0.16,
 	"research": "titanium-conveyor"
 }
