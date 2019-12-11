@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Carlatt Fabric",
-	"description": "A very strong and light fabric-like material. Useful for things that move.",
+	"description": "A very strong and light fabric-like material. Its thermal conductivity and hydrophobic properties make it useful for many different applications.",
 	"cost": 1,
 	"color": "444040"
 }
