@@ -1,5 +1,5 @@
 {
-	"type": "Dagger",
+	"type": "GroundUnit",
 	"name": "Infested Dagger",
 	"description": "A unit made from scrapped Dagger parts and held together by fungal tendrils.\nLow attack power, but very resilient.",
 	"health": 300,
