@@ -3,7 +3,7 @@
 	"description": "A very durable defensive and reflective block.\nDeflects most bullets upon impact.\nSpans multiple tiles.",
 	"type": "DeflectorWall",
 	"health": 3584,
-	"maxDamageReflect": 45,
+	"maxDamageDeflect": 30,
 	"size": 2,
 	"requirements": [
 		{ "item": "reverie-crystal", "amount": 24 }

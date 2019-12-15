@@ -3,7 +3,7 @@
 	"description": "[purple]bruh\n[white]Loses all health upon reloading the save, for some reason.",
 	"type": "DeflectorWall",
 	"health": 458752,
-	"maxDamageReflect": 1024f,
+	"maxDamageDeflect": 1024,
 	"size": 8,
 	"requirements": [
 		{ "item": "reverie-crystal", "amount": 1536 }
