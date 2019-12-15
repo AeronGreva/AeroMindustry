@@ -1,0 +1,19 @@
+{
+	"type": "ThermalGenerator",
+	"name": "Magmatic Generator",
+	"size": 3,
+	"description": "Generates more power than standard Thermal generators.",
+	"health": 540,
+	"hasPower": true,
+	"powerProduction": 2.8,
+	"requirements": [
+		{ "item": "copper", "amount": 115 },
+		{ "item": "silicon", "amount": 85 },
+		{ "item": "metaglass", "amount": 80 },
+		{ "item": "metasteel", "amount": 60 },
+		{ "item": "carlatt-fabric" "amount": 70 }
+	],
+	"category": "power",
+	"research": "thermal-generator",
+	"color": "F2A7C2"
+}
