@@ -1,6 +1,6 @@
 type: FlyingUnit
 localizedName: "Scripted Eclipse"
-description: "help"
+description: "This unit will eventually be used for script testing."
 health: 16000
 hitsize: 54
 flying: true
