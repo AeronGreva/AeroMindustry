@@ -6,7 +6,7 @@
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 150,
+	"craftTime": 120,
 	"updateEffect": "redgeneratespark",
 	"consumes": {
 		"power": 3.334,
