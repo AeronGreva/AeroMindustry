@@ -3,6 +3,8 @@ const shieldCoolRate = 0.5;
 var shieldEnergy; //Undefined initially, look below for variable definitions
 var shieldCooldownTimer;
 var shieldRegenDelay;
+
+print("[AeMin] Energy Shield script ready.");
 // At the moment, there are no means to add new local variables to Content types via scripting.
 // However, we can still use what is already there in clever ways to achieve what we want. This is where LiquidModules come in.
 // LiquidModules are able to keep track of multiple liquids at once, making them a great, albeit slightly confusing choice for local variables.
@@ -50,7 +52,7 @@ const energyShield = extendContent(LiquidBlock, "energy-shield-block", {
 		if (liquidModule.get(shieldEnergy) > 0)
 			liquidModule.add(shieldEnergy, 0);
 		
-		print(Vars.content.getByName(ContentType.liquid, "aeromindustry-shield"));
+		//print(Vars.content.getByName(ContentType.liquid, "aeromindustry-shield"));
 		//print(liquidModule.current());
 		//print(liquidModule.get(shieldRegenDelay));
 		//print(liquidModule.get(shieldCooldownTimer));
