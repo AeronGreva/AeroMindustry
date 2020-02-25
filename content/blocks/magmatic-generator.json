@@ -6,6 +6,7 @@
 	"health": 540,
 	"hasPower": true,
 	"powerProduction": 2.8,
+	"generateEffect": "redgeneratespark",
 	"requirements": [
 		{ "item": "copper", "amount": 115 },
 		{ "item": "silicon", "amount": 85 },
