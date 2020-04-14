@@ -7,9 +7,7 @@ A modification for Mindustry, a sandbox tower defense game mixed with elements o
 
 [templates] - Various template PNGs for buildings. Feel free to use these for your mods!
 
-[unused content] - Content that has gone unused. Test stuff, Variants of existing content, among other things.
-
-[unused sprites] - Sprites that have gone unused. Variants of existing content, old versions of sprites, that kind of stuff.
+[unused stuff] - Cut or unused content, arranged into a similar structure to the mod itself.
 
 bundles - Files that change descriptions and names for different languages.
 
