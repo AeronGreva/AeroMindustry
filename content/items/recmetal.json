@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Reclaimed Metal",
-	"description": "Scrap metal that has had some impurities removed. Useful for emergency fortifications.",
 	"cost": 0.5,
 	"color": "c2d6c1"
 }

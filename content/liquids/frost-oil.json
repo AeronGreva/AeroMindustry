@@ -1,6 +1,4 @@
 {
-	"name": "Frost Oil",
-	"description": "A type of coolant made from water and crushed Chirunium. Has greater heat absorption than Cryofluid.",
 	"temperature": 0.15,
 	"flammability": 0,
 	"viscosity": 0.55,

@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Santalum",
-	"description": "A strange material formed from Chirunium, Copper, and fervor for the Winter holidays.",
 	"hardness": 3,
 	"cost": 1,
 	"color": "9d6d39"

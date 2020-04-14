@@ -1,7 +1,5 @@
 {
 	"type": "GenericSmelter",
-	"name": "Spore Silicon Smelter",
-	"description": "Creates a type of silicon with enhanced electrical generation capability.",
 	"outputItem": {"item": "spore-silicon", "amount": 1},
 	"size": 2,
 	"hasPower": true,

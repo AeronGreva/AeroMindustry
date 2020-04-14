@@ -1,7 +1,5 @@
 {
 	"type": "Conveyor",
-	"name": "Metasteel Conveyor",
-	"description": "Moves items faster than Titanium conveyors.",
 	"requirements": [
 		{"item": "titanium", "amount": 2},
 		{"item": "carlatt-fabric", "amount": 2},

@@ -1,7 +1,5 @@
 {
 	"type": "Vault",
-	"name": "Extraspatial Vault",
-	"description": "Stores a very large amount of items of each type. An unloader block can be used to retrieve items from the vault.",
 	"health": 650,
 	"size": 3,
 	"hasItems": true,

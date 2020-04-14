@@ -1,6 +1,4 @@
 {
-	"name": "Reverie Wall",
-	"description": "A very durable defensive and reflective block.\nDeflects most bullets upon impact. ",
 	"type": "DeflectorWall",
 	"health": 896,
 	"maxDamageDeflect": 30,

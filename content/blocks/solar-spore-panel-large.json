@@ -1,8 +1,6 @@
 {
 	"type": "SolarGenerator",
-	"name": "Large Solar Spore Panel",
 	"size": 3,
-	"description": "A significantly more efficient version of the Solar Spore Panel.",
 	"health": 100,
 	"hasPower": true,
 	"powerProduction": 1.4,

@@ -1,7 +1,5 @@
 {
 	"type": "GenericCrafter",
-	"name": "Large Melter",
-	"description": "A large Melter, capable of processing scrap metal at a much greater rate than its smaller brother.",
 	"health": 800,
 	"itemCapacity": 20,
 	"hasPower": true,

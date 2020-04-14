@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Metasteel",
-	"description": "A sturdy, damage-resistant metal, made from graphite and titanium.",
 	"cost": 1,
 	"color": "c2d6c1"
 }

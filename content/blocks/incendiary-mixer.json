@@ -1,7 +1,5 @@
 {
 	"type": "GenericCrafter",
-	"name": "Incendiary Fluid Mixer",
-	"description": "Mixes Pyratite with Oil to produce a very flammable liquid.",
 	"liquidCapacity": 10,
 	"outputLiquid": {"liquid": "incendiary-fluid", "amount": 15},
 	"size": 2,

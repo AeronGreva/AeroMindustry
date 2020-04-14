@@ -1,8 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Daydreamer",
-	"description": "Uses Phase Fabric and large amounts of power to fabricate raw Reverie Crystals.",
-	"outputItem": {"item": "reverie-crystal-raw", "amount": 1},
+	"outputItem": {"item": "reverie-crystal", "amount": 1},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
@@ -20,7 +18,7 @@
 		{ "item": "lead", "amount": 300 },
 		{ "item": "plastanium", "amount": 160 },
 		{ "item": "silicon", "amount": 140 },
-		{ "item": "surge-alloy", "amount": 40 }
+		{ "item": "surge-alloy", "amount": 50 }
 	],
 	"category": "crafting",
 	"research": "reverie-cutter"

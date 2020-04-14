@@ -1,6 +1,4 @@
 {
-	"name": "Incendiary Fluid",
-	"description": "A flammable liquid, made by mixing finely ground Pyratite with Oil.",
 	"temperature": 0.5,
 	"flammability": 3,
 	"viscosity": 0.75,

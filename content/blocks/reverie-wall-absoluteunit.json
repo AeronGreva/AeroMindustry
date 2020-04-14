@@ -1,6 +1,4 @@
 {
-	"name": "Absolutely Gargantuan Reverie Wall",
-	"description": "[purple]bruh\n[white]Loses all health upon reloading the save, for some reason.",
 	"type": "DeflectorWall",
 	"health": 458752,
 	"maxDamageDeflect": 1024,
@@ -9,5 +7,4 @@
 		{ "item": "reverie-crystal", "amount": 1536 }
 	],
 	"category": "defense",
-	"research": "reverie-wall-large"
 }

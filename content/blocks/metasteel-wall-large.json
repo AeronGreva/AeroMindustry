@@ -1,6 +1,4 @@
 {
-	"name": "Large Metasteel Wall",
-	"description": "A wall, made out of Metasteel.\nExtremely durable.\nSpans multiple tiles.",
 	"type": "Wall",
 	"health": 4096,
 	"size": 2,

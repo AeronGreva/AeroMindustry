@@ -1,7 +1,5 @@
 {
 	"type": "Battery",
-	"name": "Mega Battery",
-	"description": "Stores a very large amount of power.",
 	"health": 1250,
 	"size": 4,
 	"consumes": { "powerBuffered": 125000 },

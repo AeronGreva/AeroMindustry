@@ -1,7 +1,5 @@
 {
 	"type": "HoverUnit",
-	"name": "Eclipse",
-	"description": "A massive, heavily armored airship.\nIts wingman turrets have enough firepower to obliterate unprepared defenders.",
 	"health": 16000,
 	"hitsize": 54,
 	"flying": true,

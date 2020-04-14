@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Bloom",
-	"description": "A small turret, fairly similar to the Duo.\nFast, but somewhat inaccurate.",
 	"health": 600,
 	"size": 1,
 	"reload": 7.5,

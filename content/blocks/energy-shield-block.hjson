@@ -1,6 +1,3 @@
-localizedName: "Energy-Shielded Wall"
-description: "Has an energy shield that absorbs some damage, but requires a moment without getting hit to recharge."
-
 health: 1000
 category: "defense"
 size: 2

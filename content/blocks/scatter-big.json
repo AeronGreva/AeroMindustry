@@ -1,7 +1,5 @@
 {
 	"type": "BurstTurret",
-	"name": "Clipper",
-	"description": "Shoots large clumps of flak at airborne enemies.",
 	"health": 1400,
 	"size": 3,
 	"reload": 45,

@@ -1,7 +1,5 @@
 {
 	"type": "BurstTurret",
-	"name": "Multicannon",
-	"description": "A sister turret to the Salvo. Fires 3 shots at once, but has some inaccuracy.",
 	"health": 1000,
 	"size": 2,
 	"reload": 25,

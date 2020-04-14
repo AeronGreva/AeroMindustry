@@ -1,7 +1,5 @@
 {
     "type": "DoubleTurret",
-    "name": "Supreme Duo",
-    "description": "A massive dual-barreled cannon, modeled after the Duo. Deals very large amounts of damage.",
     "health": 16000,
     "size": 4,
     "reload": 20,

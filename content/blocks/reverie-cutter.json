@@ -1,7 +1,5 @@
 {
 	"type": "GenericCrafter",
-	"name": "Reverie Cutter",
-	"description": "Cuts, polishes, and refines Reverie Crystals into a more useful state.",
 	"outputItem": {"item": "reverie-crystal", "amount": 1},
 	"size": 2,
 	"hasPower": true,

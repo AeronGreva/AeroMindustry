@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Reverie Crystal",
-	"description": "A large, refined crystal. The light it reflects almost seems to warp the world around it.",
 	"cost": 1.5,
 	"color": "d45da6"
 }

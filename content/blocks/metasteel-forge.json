@@ -1,7 +1,5 @@
 {
 	"type": "GenericSmelter",
-	"name": "Metasteel Forge",
-	"description": "Combines Titanium and Thorium to form Metasteel.",
 	"outputItem": {"item": "metasteel", "amount": 1},
 	"size": 2,
 	"hasPower": true,

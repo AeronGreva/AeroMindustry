@@ -1,7 +1,5 @@
 {
 	"type": "BurstTurret",
-	"name": "Cascade",
-	"description": "Fires devastating bullet volleys. Chews through ammunition, and can only target ground units.",
 	"health": 3500,
 	"size": 4,
 	"reload": 60,

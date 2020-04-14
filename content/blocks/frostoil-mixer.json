@@ -1,7 +1,5 @@
 {
 	"type": "LiquidConverter",
-	"name": "Frost Oil Mixer",
-	"description": "Mixes water with flakes of Chirunium to create Frost Oil.",
 	"liquidCapacity": 15,
 	"outputLiquid": {"liquid": "frost-oil", "amount": 12},
 	"size": 2,

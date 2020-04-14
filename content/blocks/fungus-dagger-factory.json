@@ -1,6 +1,4 @@
 {
-	"name": "Infested Dagger Factory",
-	"description": "Makes Infested Daggers. If you have access to this outside of Sandbox, please inform UltrasonicAeron.",
 	"type": "UnitFactory",
 	"unitType": "fungus-dagger",
 	"size": 2,

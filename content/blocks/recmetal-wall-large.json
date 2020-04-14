@@ -1,6 +1,4 @@
 {
-	"name": "Large Reclaimed Metal Wall",
-	"description": "A wall, made out of reclaimed scrap metal.\nCheap, but not very durable.\nSpans multiple tiles.",
 	"type": "Wall",
 	"health": 1280,
 	"size": 2,
