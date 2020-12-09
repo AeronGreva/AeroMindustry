@@ -4,4 +4,5 @@
   "author": "AeronGreva",
   "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\n[white]Does not modify Vanilla content, for the sake of compatibility with other mods.",
   "version": 1.0
+  "minGameVersion": 121
 }
