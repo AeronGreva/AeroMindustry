@@ -2,18 +2,24 @@
 	"type": "ItemTurret",
 	"health": 600,
 	"size": 1,
-	"range": 116,
-	"reloadTime": 7.5,
+	"range": 120,
+	"reloadTime": 12,
 	"rotateSpeed": 16,
+	"inaccuracy": 8,
 	"targetAir": true,
 	"targetGround": true,
-	"ammoUseEffect": "shellEjectSmall",
-	"recoil": 1.5,
+	"ammoUseEffect": "casing1",
+	"recoilAmount": 1.5,
 	"category": "turret",
-	"ammo": {
+	"ammoTypes": {
 		"copper": "standardCopper",
 		"graphite": "standardDense",
 		"pyratite": "standardIncendiary",
 		"silicon": "standardHoming"
-	}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 40 },
+		{ "item": "metasteel", "amount": 25}
+	],
+	"research": "duo"
 }
