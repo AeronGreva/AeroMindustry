@@ -1,0 +1,19 @@
+{
+	"type": "ItemTurret",
+	"health": 600,
+	"size": 1,
+	"range": 116,
+	"reloadTime": 7.5,
+	"rotateSpeed": 16,
+	"targetAir": true,
+	"targetGround": true,
+	"ammoUseEffect": "shellEjectSmall",
+	"recoil": 1.5,
+	"category": "turret",
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming"
+	}
+}
