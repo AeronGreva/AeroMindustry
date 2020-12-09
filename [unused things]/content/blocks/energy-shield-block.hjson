@@ -1,0 +1,13 @@
+health: 1000
+category: "defense"
+size: 2
+
+update: true
+solid: true
+hasLiquids: true
+liquidCapacity: 200
+
+
+requirements: [
+metasteel/1
+] 
