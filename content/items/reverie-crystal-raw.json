@@ -4,5 +4,6 @@
 	"radioactivity": 0.75,
 	"hardness": 4,
 	"cost": 10,
-	"color": "bf2195"
+	"color": "bf2195",
+	"research": "thorium"
 }
