@@ -16,6 +16,21 @@
 		"graphite": "standardDense",
 		"pyratite": "standardIncendiary",
 		"silicon": "standardHoming"
+		"metasteel": {
+			"speed": 3.5,
+			"lifetime": 45,
+			"damage": 16,
+			"pierceCap": 2,
+			"pierceBuilding": true,
+			"ammoMultiplier": 2,
+			"reloadMultiplier": 0.7,
+			"width": 8,
+			"height": 10,
+			"frontColor": "c2d6c1",
+			"backColor": "a0d0f8",
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke"
+		}
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 40 },
