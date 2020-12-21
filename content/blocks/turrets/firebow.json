@@ -1,0 +1,29 @@
+{
+	"type": "ItemTurret",
+	"health": 1300,
+	"size": 2,
+	"range": 60,
+	"reloadTime": 4,
+	"inaccuracy": 4,
+	"shots": 3,
+	"spread": 3,
+	"alternate": true,
+	"shootCone": 50,
+	"targetAir": false,
+	"targetGround": true,
+	"ammoUseEffect": "none",
+	"shootSound": "flame",
+	"recoilAmount": 0,
+	"coolantMultiplier": 1.7,
+	"category": "turret",
+	"ammoTypes": {
+		"coal": "basicFlame",
+		"pyratite": "pyraFlame",
+		"copper": "standardCopper"
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 150 },
+		{ "item": "metasteel", "amount": 135 }
+	],
+	"research": "scorch"
+}
