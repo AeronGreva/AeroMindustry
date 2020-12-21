@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 1024,
+	"size": 1,
+	"requirements": [
+		{ "item": "metasteel", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "thorium-wall"
+}

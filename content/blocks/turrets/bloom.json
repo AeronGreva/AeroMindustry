@@ -34,7 +34,7 @@
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 40 },
-		{ "item": "metasteel", "amount": 25}
+		{ "item": "metasteel", "amount": 25 }
 	],
 	"research": "duo"
 }
