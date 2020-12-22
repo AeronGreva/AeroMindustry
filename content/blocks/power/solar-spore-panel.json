@@ -2,7 +2,7 @@
 	"type": "SolarGenerator",
 	"health": 100,
 	"hasPower": true,
-	"powerProduction": 1.5,
+	"powerProduction": 0.14,
 	"requirements": [
 		{ "item": "titanium", "amount": 10 },
 		{ "item": "spore-silicon", "amount": 12 }
