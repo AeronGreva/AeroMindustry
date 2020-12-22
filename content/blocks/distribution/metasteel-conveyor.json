@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"health": 150,
+	"requirements": [
+		{"item": "copper", "amount": 2},
+		{"item": "titanium", "amount": 2},
+		{"item": "metasteel", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.12,
+	"displayedSpeed": 15,
+	"research": "titanium-conveyor"
+}

@@ -1,0 +1,28 @@
+{
+	"type": "GenericCrafter",
+	"health": 850,
+	"itemCapacity": 20,
+	"hasPower": true,
+	"outputLiquid": {"liquid": "slag", "amount": 16},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 24,
+	"consumes": {
+		"power": 3.0,
+		"items": {
+			"items": [
+				{ "item": "scrap", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 150 },
+		{ "item": "lead", "amount": 170 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "silicon", "amount": 120 }
+	],
+	"category": "crafting",
+	"research": "melter"
+}

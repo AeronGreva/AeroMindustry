@@ -1,0 +1,13 @@
+{
+	"type": "ArmoredConveyor",
+	"health": 320,
+	"requirements": [
+		{"item": "metaglass", "amount": 2},
+		{"item": "plastanium", "amount": 2},
+		{"item": "metasteel", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.12,
+	"displayedSpeed": 15,
+	"research": "metasteel-conveyor"
+}
