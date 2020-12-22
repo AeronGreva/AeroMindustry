@@ -1,0 +1,24 @@
+{
+	"type": "GenericCrafter",
+	"outputItem": {"item": "reverie-crystal", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "redgeneratespark",
+	"consumes": {
+		"power": 3.334,
+		"items": {
+			"items": [
+				{ "item": "reverie-crystal-raw", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 160 },
+		{ "item": "plastanium", "amount": 100 },
+		{ "item": "silicon", "amount": 75 }
+	],
+	"category": "crafting",
+	"research": "spore-press"
+}

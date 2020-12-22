@@ -1,0 +1,14 @@
+{
+	"type": "StorageBlock",
+	"health": 650,
+	"size": 3,
+	"hasItems": true,
+	"requirements": [
+		{ "item": "titanium", "amount": 600 },
+		{ "item": "thorium", "amount": 250 },
+		{ "item": "reverie-crystal", "amount": 100 },
+	],
+	"itemCapacity": 5000,
+	"category": "effect",
+	"research": "vault"
+}

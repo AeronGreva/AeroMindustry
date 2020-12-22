@@ -3,7 +3,7 @@
 	"size": 3,
 	"health": 540,
 	"hasPower": true,
-	"powerProduction": 2.8,
+	"powerProduction": 3,
 	"generateEffect": "redgeneratespark",
 	"requirements": [
 		{ "item": "copper", "amount": 115 },

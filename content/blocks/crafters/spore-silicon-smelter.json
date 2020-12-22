@@ -1,0 +1,26 @@
+{
+	"type": "GenericSmelter",
+	"outputItem": {"item": "spore-silicon", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"craftEffect": "pulverize",
+	"consumes": {
+		"power": 0.75,
+		"items": {
+			"items": [
+				{ "item": "silicon", "amount": 2 },
+				{ "item": "spore-pod", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 75 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "graphite", "amount": 45 },
+		{ "item": "silicon", "amount": 40 }
+	],
+	"category": "crafting",
+	"research": "spore-press"
+}
