@@ -1,0 +1,13 @@
+{
+	"type": "LiquidRouter",
+	"health": 1000,
+	"size": 3,
+	"liquidCapacity": 3000,
+	"requirements": [
+		{ "item": "metaglass", "amount": 45 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "reverie-crystal", "amount": 50 }
+	],
+	"category": "liquid",
+	"research": "liquid-tank"
+}

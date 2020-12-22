@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 240,
+	"size": 1,
+	"requirements": [
+		{ "item": "recmetal", "amount": 4 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

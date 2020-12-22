@@ -1,0 +1,12 @@
+{
+	"type": "Wall",
+	"health": 896,
+	"chanceDeflect": 40,
+	"flashHit": true,
+	"size": 1,
+	"requirements": [
+		{ "item": "reverie-crystal", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "phase-wall"
+}

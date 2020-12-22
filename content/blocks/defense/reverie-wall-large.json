@@ -1,0 +1,12 @@
+{
+	"type": "Wall",
+	"health": 3584,
+	"chanceDeflect": 40,
+	"flashHit": true,
+	"size": 2,
+	"requirements": [
+		{ "item": "reverie-crystal", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "reverie-wall"
+}
