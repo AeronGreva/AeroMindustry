@@ -18,8 +18,7 @@
 	"category": "turret",
 	"ammoTypes": {
 		"coal": "basicFlame",
-		"pyratite": "pyraFlame",
-		"copper": "standardCopper"
+		"pyratite": "pyraFlame"
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 150 },
