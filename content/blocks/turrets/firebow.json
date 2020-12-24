@@ -6,7 +6,7 @@
 	"reloadTime": 4,
 	"inaccuracy": 4,
 	"shots": 3,
-	"spread": 3,
+	"spread": 2,
 	"alternate": true,
 	"shootCone": 50,
 	"targetAir": false,
@@ -23,7 +23,8 @@
 	},
 	"requirements": [
 		{ "item": "copper", "amount": 150 },
-		{ "item": "metasteel", "amount": 135 }
+		{ "item": "graphite", "amount": 100 },
+		{ "item": "metasteel", "amount": 40 }
 	],
 	"research": "scorch"
 }
