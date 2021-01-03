@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"outputItem": {"item": "reverie-crystal", "amount": 1},
+	"outputItem": {"item": "reverie-crystal-raw", "amount": 1},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
@@ -21,5 +21,5 @@
 		{ "item": "surge-alloy", "amount": 50 }
 	],
 	"category": "crafting",
-	"research": "reverie-cutter"
+	"research": "spore-press"
 }
