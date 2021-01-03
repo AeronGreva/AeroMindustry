@@ -77,14 +77,14 @@
 			"hitEffect": "flakExplosion"
 		},
 		"chirunium": {
-			"speed": 4,
+			"speed": 4.5,
 			"lifetime": 90,
-			"damage": 9,
+			"damage": 3,
 			"frontColor": "eff7ff",
 			"backColor": "a0d0f8",
 			"ammoMultiplier": 4,
-			"splashDamage": 15,
-			"splashDamageRadius": 30,
+			"splashDamage": 9,
+			"splashDamageRadius": 48,
 			"width": 8,
 			"height": 10,
 			"shootEffect": "shootSmall",
