@@ -1,19 +1,20 @@
 {
 	"type": "GenericCrafter",
-	"health": 850,
-	"itemCapacity": 20,
+	"health": 650,
+	"itemCapacity": 30,
+	"liquidCapacity": 64,
 	"hasPower": true,
-	"outputLiquid": {"liquid": "slag", "amount": 16},
+	"outputLiquid": {"liquid": "slag", "amount": 6},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 24,
+	"craftTime": 10,
 	"consumes": {
-		"power": 3.0,
+		"power": 3.5,
 		"items": {
 			"items": [
-				{ "item": "scrap", "amount": 2 }
+				{ "item": "scrap", "amount": 3 }
 			]
 		}
 	},
