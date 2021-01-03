@@ -1,0 +1,33 @@
+{
+	"type": "Separator",
+	"health": 200,
+	"itemCapacity": 10,
+	"hasPower": true,
+	"results": [
+		{ "item": "chirunium", "amount": 2 },
+		{ "item": "lead", "amount": 3 },
+		{ "item": "sand", "amount": 5 }
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 90,
+	"consumes": {
+		"power": 2.0,
+		"items": {
+			"items": [
+				{ "item": "recmetal", "amount": 1 }
+			]
+		},
+		"liquid": { "liquid": "cryofluid", "amount": 0.25 }
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 20 },
+		{ "item": "lead", "amount": 40 },
+		{ "item": "titanium", "amount": 15 },
+		{ "item": "silicon", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "separator"
+}
