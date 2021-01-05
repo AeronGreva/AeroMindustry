@@ -1,0 +1,18 @@
+{
+	"type": "Drill",
+	"health": 50,
+	"size": 1,
+	"requirements": [
+		{"item": "copper", "amount": 25},
+		{"item": "graphite", "amount": 15},
+		{"item": "metasteel", "amount": 10}
+	],
+	"consumes": { "liquid": { "liquid": "water", "amount": 0.02, "booster": true, "optional": true } },
+	"liquidBoostIntensity": 1.5,
+	"drillTime": 120,
+	"drawRim": false,
+	"warmupSpeed": 0.02,
+	"tier": 1,
+	"category": "production",
+	"research": "pneumatic-drill"
+}
