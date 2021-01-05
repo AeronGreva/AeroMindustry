@@ -7,3 +7,5 @@ SimonWoodburyForget - Creator of the Mindustry Modding Guide (Seriously, thanks.
 Ilya246.exe - Ideas (The Supreme Duo and the Eclipse were results of their suggestions)
 
 feu_follet - French Translation
+
+Ruichka - Russian Translation
