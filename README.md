@@ -20,4 +20,4 @@ Feel free to use the template files for your own mod!
 Also, if you have any ideas you'd like to share with me, just send me a message.
 
 # Available Languages
-English, French
+English, French, Russian
