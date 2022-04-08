@@ -1,4 +1,8 @@
 {
 	"cost": 1,
-	"color": "444040"
+	"color": "444040",
+	"research": {
+		"parent": "graphite",
+		"requirements": [{ "item": "graphite", "amount": 5 }]
+		}
 }

@@ -1,5 +1,9 @@
 {
 	"hardness": 3,
 	"cost": 1,
-	"color": "73befc"
+	"color": "73befc",
+	"research": {
+		"parent": "titanium",
+		"requirements": [{ "item": "titanium", "amount": 5 }]
+		}
 }

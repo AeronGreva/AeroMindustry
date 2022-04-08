@@ -5,5 +5,8 @@
 	"hardness": 4,
 	"cost": 10,
 	"color": "bf2195",
-	"research": "thorium"
+	"research": {
+		"parent": "thorium",
+		"requirements": [{ "item": "thorium", "amount": 5 }]
+		}
 }

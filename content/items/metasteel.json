@@ -1,4 +1,8 @@
 {
 	"cost": 1,
-	"color": "e1fadc"
+	"color": "e1fadc",
+	"research": {
+		"parent": "thorium",
+		"requirements": [{ "item": "thorium", "amount": 5 }]
+		}
 }
