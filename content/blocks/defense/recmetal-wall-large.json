@@ -1,9 +1,9 @@
 {
 	"type": "Wall",
-	"health": 960,
+	"health": 1440,
 	"size": 2,
 	"requirements": [
-		{ "item": "recmetal", "amount": 16 }
+		{ "item": "recmetal", "amount": 24 }
 	],
 	"category": "defense",
 	"research": "recmetal-wall"
