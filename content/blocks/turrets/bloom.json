@@ -26,8 +26,8 @@
 			"reloadMultiplier": 0.7,
 			"width": 8,
 			"height": 10,
-			"frontColor": "c2d6c1",
-			"backColor": "a0d0f8",
+			"frontColor": "e8fae3",
+			"backColor": "c2d6c1",
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke"
 		}
