@@ -1,6 +1,6 @@
 {
 	"cost": 1.5,
-	"color": "d45da6",
+	"color": "cf17a1",
 	"research": {
 		"parent": "reverie-crystal-raw",
 		"requirements": [{ "item": "reverie-crystal-raw", "amount": 5 }]

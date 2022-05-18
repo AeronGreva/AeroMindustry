@@ -4,7 +4,7 @@
 	"radioactivity": 0.75,
 	"hardness": 4,
 	"cost": 10,
-	"color": "bf2195",
+	"color": "a51d99",
 	"research": {
 		"parent": "thorium",
 		"requirements": [{ "item": "thorium", "amount": 5 }]
