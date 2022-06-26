@@ -5,7 +5,7 @@
 	"reloadTime": 24,
 	"range": 152,
 	"maxAmmo": 60,
-	"inaccuracy": 3,
+	"inaccuracy": 5,
 	"rotateSpeed": 5,
 	"shots": 3,
 	"burstSpacing": 2,
